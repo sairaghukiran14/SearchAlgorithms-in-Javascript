@@ -3,4 +3,4 @@
 Linear Search in Javascript
 Binary Search In Javascript
 
-Open SearchAlgo.js files for the Code
+Open searchalgo.js files for the Code
